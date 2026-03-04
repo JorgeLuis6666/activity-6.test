@@ -1,1 +1,1 @@
-# activity-6.test
+Activity 6
